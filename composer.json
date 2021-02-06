@@ -1,0 +1,14 @@
+{
+    "name": "swarletta/telegram-logger",
+    "description": "Handle your errors into Telegram",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Alexandra Malyshenko",
+            "email": "alexandra.malyshenko94@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^2.2"
+    }
+}
