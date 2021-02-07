@@ -1,7 +1,7 @@
 {
     "name": "swarletta/telegram-logger",
     "description": "Handle your errors into Telegram",
-    "type": "project",
+    "type": "library",
     "authors": [
         {
             "name": "Alexandra Malyshenko",
